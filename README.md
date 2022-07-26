@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Machine Learning Projects and Web Development Projects 
 - 📫 How to reach me:-
      - Connect with me on LinkedIn: [Shayoun Bhaduri](https://www.linkedin.com/in/shayoun-bhaduri-0547381a3/"ShayounBhaduri")
-     - Instagram Id- saahobhaduri
+     - Instagram Id- [saahobhaduri](https://www.instagram.com/saahobhaduri/"saahobhaduri")
 
 <!---
 bhadurishayoun/bhadurishayoun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
