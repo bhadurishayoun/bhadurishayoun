@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhadurishayoun
-- 👀 I’m interested in Human Computer Interaction
+- 👀 I’m interested in Machine Learning and its Models
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Machine Learning Projects and Web Development Projects 
 - 📫 How to reach me:-
