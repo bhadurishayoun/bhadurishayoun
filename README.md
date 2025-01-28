@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhadurishayoun
-- I am a stident of Indian Institute of Technology, Mandi
+- I am a student of Indian Institute of Technology, Mandi
 - 👀 I’m interested in Machine Learning and its Models
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Machine Learning Projects and Web Development Projects 
